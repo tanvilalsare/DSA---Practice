@@ -23,4 +23,9 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/tanvilalsare/DSA---Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tanvilalsare/DSA---Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
