@@ -12,6 +12,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,12 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
