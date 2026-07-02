@@ -15,4 +15,12 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
