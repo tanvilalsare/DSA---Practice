@@ -36,11 +36,13 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
@@ -49,5 +51,6 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
