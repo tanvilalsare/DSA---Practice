@@ -43,6 +43,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanvilalsare/DSA---Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
@@ -52,5 +53,6 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanvilalsare/DSA---Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
