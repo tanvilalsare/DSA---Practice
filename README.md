@@ -73,21 +73,25 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
