@@ -30,11 +30,13 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tanvilalsare/DSA---Practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tanvilalsare/DSA---Practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +90,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,4 +108,12 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
