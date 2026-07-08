@@ -81,6 +81,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,8 +114,13 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
