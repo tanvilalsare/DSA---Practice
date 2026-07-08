@@ -76,6 +76,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
@@ -84,6 +85,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -91,10 +93,15 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
