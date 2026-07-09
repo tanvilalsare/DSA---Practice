@@ -75,6 +75,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -89,6 +90,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -113,6 +115,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0637-average-of-levels-in-binary-tree) |
