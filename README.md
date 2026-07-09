@@ -83,6 +83,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,11 +106,13 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanvilalsare/DSA---Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
