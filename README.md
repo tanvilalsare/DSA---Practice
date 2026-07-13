@@ -7,6 +7,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -46,6 +47,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Recursion
