@@ -175,5 +175,6 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/tanvilalsare/DSA---Practice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tanvilalsare/DSA---Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
