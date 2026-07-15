@@ -6,6 +6,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
