@@ -14,6 +14,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanvilalsare/DSA---Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -156,6 +157,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Iterator
 |  |
 | ------- |
