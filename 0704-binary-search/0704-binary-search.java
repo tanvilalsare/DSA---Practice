@@ -1,12 +1,7 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int ans = binarySearch(nums, target);
-        return ans;
-    }
-
-    static int binarySearch(int nums[] , int target){
     int s = 0;
-        int e = nums.length-1;
+    int e = nums.length-1;
         while(s<=e){
             int mid = s+(e-s)/2;
             if(target > nums[mid]){
