@@ -55,6 +55,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0069-sqrtx](https://github.com/tanvilalsare/DSA---Practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
+| [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
 ## Iterator
