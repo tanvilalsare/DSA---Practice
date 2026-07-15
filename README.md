@@ -52,6 +52,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tanvilalsare/DSA---Practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 ## Recursion
@@ -147,6 +148,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tanvilalsare/DSA---Practice/tree/master/0069-sqrtx) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
