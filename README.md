@@ -18,6 +18,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanvilalsare/DSA---Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1539-kth-missing-positive-number) |
@@ -28,12 +29,14 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
