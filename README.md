@@ -12,6 +12,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -74,6 +76,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -91,6 +94,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -199,4 +203,8 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanvilalsare/DSA---Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/tanvilalsare/DSA---Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tanvilalsare/DSA---Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
