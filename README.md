@@ -47,6 +47,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
+| [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
@@ -193,6 +194,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1929-concatenation-of-array) |
