@@ -45,6 +45,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
