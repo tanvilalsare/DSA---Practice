@@ -48,6 +48,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
 | ------- |
