@@ -56,6 +56,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
