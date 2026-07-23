@@ -13,6 +13,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
@@ -37,6 +38,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0075-sort-colors](https://github.com/tanvilalsare/DSA---Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanvilalsare/DSA---Practice/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
