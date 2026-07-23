@@ -186,6 +186,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/tanvilalsare/DSA---Practice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanvilalsare/DSA---Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -239,5 +240,6 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/tanvilalsare/DSA---Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanvilalsare/DSA---Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
