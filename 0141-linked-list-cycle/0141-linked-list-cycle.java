@@ -1,21 +1,25 @@
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
-        if (head == null || head.next == null) {
-            return false;
-        }
-        
+    public boolean hasCycle(ListNode head) {// fast slow pointer method
         ListNode slow = head;
         ListNode fast = head;
-        
-        while (fast != null && fast.next != null) {
-            slow = slow.next;         // moves 1 step
-            fast = fast.next.next;    // moves 2 steps
-            
-            if (slow == fast) {       
-                return true;
-            }
+        while(fast!=null && fast.next!= null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){// they meet here hence this is the pos 
+            return true; 
+           }
         }
-        
-        return false; 
+        return false;
     }
 }
