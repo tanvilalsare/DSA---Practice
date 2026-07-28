@@ -86,6 +86,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
 ## Recursion
@@ -122,6 +123,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0203-remove-linked-list-elements](https://github.com/tanvilalsare/DSA---Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
