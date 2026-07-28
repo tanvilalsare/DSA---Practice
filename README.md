@@ -113,6 +113,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0002-add-two-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanvilalsare/DSA---Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tanvilalsare/DSA---Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
