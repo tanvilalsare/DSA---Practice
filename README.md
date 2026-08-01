@@ -25,6 +25,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/tanvilalsare/DSA---Practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanvilalsare/DSA---Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanvilalsare/DSA---Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -235,6 +236,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/tanvilalsare/DSA---Practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
