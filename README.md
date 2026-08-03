@@ -258,6 +258,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/tanvilalsare/DSA---Practice/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/tanvilalsare/DSA---Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/tanvilalsare/DSA---Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/tanvilalsare/DSA---Practice/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/tanvilalsare/DSA---Practice/tree/master/1068-product-sales-analysis-i) |
