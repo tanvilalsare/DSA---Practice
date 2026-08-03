@@ -2,7 +2,7 @@
 SELECT s.user_id,
        ROUND(
         IFNULL( 
-        SUM(CASE WHEN c.action = 'confirmed' THEN 1 ELSE 0 END) /COUNT(c.action) 
+        SUM(CASE WHEN c.action = 'confirmed' THEN 1 ELSE 0 END) /COUNT(c.action) -- IFNULL(value, fallback) value is not null and 0 is null 
         ,0) ,2) AS confirmation_rate
 FROM Signups s
 LEFT JOIN Confirmations c
