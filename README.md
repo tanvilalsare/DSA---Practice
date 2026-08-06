@@ -35,6 +35,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1572-matrix-diagonal-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/tanvilalsare/DSA---Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1929-concatenation-of-array) |
@@ -246,6 +247,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -282,6 +284,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
 ## Interactive
 |  |
 | ------- |
