@@ -20,6 +20,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanvilalsare/DSA---Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvilalsare/DSA---Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0234-palindrome-linked-list) |
+| [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -237,11 +239,13 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/tanvilalsare/DSA---Practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
@@ -256,6 +260,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/tanvilalsare/DSA---Practice/tree/master/1672-richest-customer-wealth) |
