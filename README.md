@@ -24,6 +24,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -97,6 +98,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -296,4 +298,8 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
