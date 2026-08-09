@@ -15,6 +15,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -62,6 +63,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0075-sort-colors](https://github.com/tanvilalsare/DSA---Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +129,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvilalsare/DSA---Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
