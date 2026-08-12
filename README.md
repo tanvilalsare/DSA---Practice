@@ -20,6 +20,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0238-product-of-array-except-self](https://github.com/tanvilalsare/DSA---Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -68,6 +70,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanvilalsare/DSA---Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -134,6 +137,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
@@ -235,6 +239,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tanvilalsare/DSA---Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanvilalsare/DSA---Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
