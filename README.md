@@ -8,6 +8,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tanvilalsare/DSA---Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
@@ -220,6 +221,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -318,5 +320,6 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
