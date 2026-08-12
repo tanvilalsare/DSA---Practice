@@ -16,6 +16,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanvilalsare/DSA---Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tanvilalsare/DSA---Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -262,6 +263,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/tanvilalsare/DSA---Practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
