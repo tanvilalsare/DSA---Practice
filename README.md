@@ -34,6 +34,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/tanvilalsare/DSA---Practice/tree/master/1389-create-target-array-in-the-given-order) |
@@ -62,6 +63,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanvilalsare/DSA---Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## String
@@ -142,6 +145,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -250,6 +254,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanvilalsare/DSA---Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1539-kth-missing-positive-number) |
 ## Iterator
 |  |
