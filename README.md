@@ -336,4 +336,8 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
