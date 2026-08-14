@@ -22,6 +22,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
