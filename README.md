@@ -118,6 +118,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/tanvilalsare/DSA---Practice/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -253,6 +254,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanvilalsare/DSA---Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/tanvilalsare/DSA---Practice/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanvilalsare/DSA---Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanvilalsare/DSA---Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
