@@ -45,6 +45,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanvilalsare/DSA---Practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/tanvilalsare/DSA---Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
@@ -80,6 +81,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanvilalsare/DSA---Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanvilalsare/DSA---Practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## String
 |  |
 | ------- |
@@ -258,6 +260,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanvilalsare/DSA---Practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Iterator
 |  |
 | ------- |
