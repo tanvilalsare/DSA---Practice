@@ -47,6 +47,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1539-kth-missing-positive-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanvilalsare/DSA---Practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanvilalsare/DSA---Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/tanvilalsare/DSA---Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
@@ -93,6 +94,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanvilalsare/DSA---Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
