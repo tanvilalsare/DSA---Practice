@@ -16,6 +16,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanvilalsare/DSA---Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tanvilalsare/DSA---Practice/tree/master/0198-house-robber) |
@@ -255,6 +256,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanvilalsare/DSA---Practice/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/tanvilalsare/DSA---Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanvilalsare/DSA---Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0222-count-complete-tree-nodes) |
