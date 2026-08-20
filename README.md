@@ -11,6 +11,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanvilalsare/DSA---Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -145,6 +146,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanvilalsare/DSA---Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tanvilalsare/DSA---Practice/tree/master/0141-linked-list-cycle) |
@@ -301,6 +303,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0867-transpose-matrix) |
