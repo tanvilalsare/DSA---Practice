@@ -95,6 +95,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanvilalsare/DSA---Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tanvilalsare/DSA---Practice/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/tanvilalsare/DSA---Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -373,4 +375,8 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
