@@ -105,6 +105,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tanvilalsare/DSA---Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanvilalsare/DSA---Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/tanvilalsare/DSA---Practice/tree/master/1773-count-items-matching-a-rule) |
