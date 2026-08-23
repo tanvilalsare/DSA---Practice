@@ -111,6 +111,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1773-count-items-matching-a-rule](https://github.com/tanvilalsare/DSA---Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
+| [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -145,6 +146,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanvilalsare/DSA---Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -371,6 +373,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -383,4 +386,8 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
