@@ -113,6 +113,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanvilalsare/DSA---Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Stack
 |  |
 | ------- |
