@@ -58,6 +58,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/tanvilalsare/DSA---Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1929-concatenation-of-array) |
@@ -147,6 +148,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/tanvilalsare/DSA---Practice/tree/master/1512-number-of-good-pairs) |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanvilalsare/DSA---Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -264,6 +266,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tanvilalsare/DSA---Practice/tree/master/0198-house-robber) |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -318,6 +321,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1480-running-sum-of-1d-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanvilalsare/DSA---Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/tanvilalsare/DSA---Practice/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -390,5 +394,14 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
