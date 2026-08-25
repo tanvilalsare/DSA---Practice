@@ -30,6 +30,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0414-third-maximum-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/tanvilalsare/DSA---Practice/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0349-intersection-of-two-arrays](https://github.com/tanvilalsare/DSA---Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -378,11 +380,13 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 ## Boyer–Moore Majority Vote Algorithm
