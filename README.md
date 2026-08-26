@@ -126,6 +126,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanvilalsare/DSA---Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanvilalsare/DSA---Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -423,4 +424,8 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanvilalsare/DSA---Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
