@@ -83,6 +83,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/tanvilalsare/DSA---Practice/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +124,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanvilalsare/DSA---Practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0173-binary-search-tree-iterator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
