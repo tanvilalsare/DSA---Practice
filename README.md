@@ -82,6 +82,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/tanvilalsare/DSA---Practice/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1528-shuffle-string](https://github.com/tanvilalsare/DSA---Practice/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanvilalsare/DSA---Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/tanvilalsare/DSA---Practice/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tanvilalsare/DSA---Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanvilalsare/DSA---Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
