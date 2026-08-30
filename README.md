@@ -11,6 +11,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/tanvilalsare/DSA---Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0074-search-a-2d-matrix) |
@@ -323,6 +324,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/tanvilalsare/DSA---Practice/tree/master/0832-flipping-an-image) |
@@ -342,6 +344,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/tanvilalsare/DSA---Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/tanvilalsare/DSA---Practice/tree/master/0566-reshape-the-matrix) |
