@@ -68,6 +68,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [1920-build-array-from-permutation](https://github.com/tanvilalsare/DSA---Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanvilalsare/DSA---Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -402,6 +403,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1927-sum-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
