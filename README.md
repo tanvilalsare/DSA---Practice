@@ -215,6 +215,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0234-palindrome-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanvilalsare/DSA---Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
