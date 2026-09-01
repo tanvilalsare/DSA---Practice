@@ -158,6 +158,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0268-missing-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanvilalsare/DSA---Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/tanvilalsare/DSA---Practice/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -178,6 +179,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0206-reverse-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/tanvilalsare/DSA---Practice/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +289,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tanvilalsare/DSA---Practice/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
 |  |
@@ -441,4 +444,8 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanvilalsare/DSA---Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
