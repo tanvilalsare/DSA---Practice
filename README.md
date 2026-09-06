@@ -114,6 +114,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0058-length-of-last-word](https://github.com/tanvilalsare/DSA---Practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/tanvilalsare/DSA---Practice/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/tanvilalsare/DSA---Practice/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
@@ -287,6 +288,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvilalsare/DSA---Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanvilalsare/DSA---Practice/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/tanvilalsare/DSA---Practice/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tanvilalsare/DSA---Practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
