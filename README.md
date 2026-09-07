@@ -118,6 +118,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0224-basic-calculator](https://github.com/tanvilalsare/DSA---Practice/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/tanvilalsare/DSA---Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanvilalsare/DSA---Practice/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/tanvilalsare/DSA---Practice/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tanvilalsare/DSA---Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/tanvilalsare/DSA---Practice/tree/master/1528-shuffle-string) |
@@ -292,6 +293,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanvilalsare/DSA---Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/tanvilalsare/DSA---Practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/tanvilalsare/DSA---Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/tanvilalsare/DSA---Practice/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
 |  |
