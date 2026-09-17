@@ -45,6 +45,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/tanvilalsare/DSA---Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/tanvilalsare/DSA---Practice/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/tanvilalsare/DSA---Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanvilalsare/DSA---Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/tanvilalsare/DSA---Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -107,6 +108,7 @@ My automated data structures and algorithms practice repository. A self-updating
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvilalsare/DSA---Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/tanvilalsare/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/tanvilalsare/DSA---Practice/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanvilalsare/DSA---Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvilalsare/DSA---Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -433,6 +435,7 @@ My automated data structures and algorithms practice repository. A self-updating
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/tanvilalsare/DSA---Practice/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/tanvilalsare/DSA---Practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvilalsare/DSA---Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -453,6 +456,7 @@ My automated data structures and algorithms practice repository. A self-updating
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/tanvilalsare/DSA---Practice/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/tanvilalsare/DSA---Practice/tree/master/1859-sorting-the-sentence) |
 ## Game Theory
 |  |
